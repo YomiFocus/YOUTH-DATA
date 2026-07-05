@@ -1,0 +1,6 @@
+{
+  "name": "Electronic Registration Portal",
+  "description": "A secure full-stack electronic registration system with advanced duplicate validation, administrative controls, and performance statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
